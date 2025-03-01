@@ -4,7 +4,6 @@ Willkommen zum **Ullrichmon Modpaket**! Dieses Modpaket wurde für den Ullrichmo
 
 ## 📦 Inhalt
 - **Modliste**: Eine vollständige Liste aller enthaltenen Mods findest du in der Datei [`Modlist.md`](ModList.md).
-- **Mods**: Alle mods des Modpaketes befinden sich im Ordner `mods/`.
 - **Konfigurationen**: Alle angepassten Konfigurationsdateien befinden sich im Ordner `configs/`.
 
 ## 📜 Installation
