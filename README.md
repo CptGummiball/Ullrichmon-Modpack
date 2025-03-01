@@ -14,7 +14,7 @@ Willkommen zum **Ullrichmon Modpaket**! Dieses Modpaket wurde für den Ullrichmo
 
 ### Manuell via zip:
 1. Erstelle eine neue Fabric Instanz (FABRIC 1.16.10 / MC 1.21.1)
-2. Lade die `modpack.zip` aus dem Release herunter
+2. Lade die `modpack.zip` aus dem [Release](https://github.com/CptGummiball/Ullrichmon-Modpack/releases) herunter
 3. Entpacke die `modpack.zip` direkt im Ordner der Instanz
 
 ### Über die Modrinth Seite:
