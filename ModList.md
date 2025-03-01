@@ -33,7 +33,7 @@
 - dynamic-fps-3.7.7+minecraft-1.21.0-fabric.jar
 - enchdesc-fabric-1.21.1-21.1.5.jar
 - ends_delight-2.5.1+refabricated.1.21.1.jar
--enhanced_attack_indicator-1.1.0+1.21.jar
+- enhanced_attack_indicator-1.1.0+1.21.jar
 - entityculling-fabric-1.7.2-mc1.21.jar
 - fabric-api-0.115.0+1.21.1.jar
 - fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar
@@ -99,8 +99,6 @@
 - storagedelight-24.12.15-1.21-fabric.jar
 - superflatworldnoslimes-1.21.1-3.4.jar
 - swingthrough-1.0.5+1.21.jar
-- TerraBlender-fabric-1.21.1-4.1.0.8.jar
-- Terralith_1.21.x_v2.5.8.jar
 - tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-1.jar
 - titlefixer-1.0+1.21.jar
 - tooltipfix-1.1.1-1.20.jar
