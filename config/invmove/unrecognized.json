@@ -11,11 +11,13 @@
     "net.minecraft.class_429": false,
     "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": false,
     "net.minecraft.class_443": false,
-    "xaero.map.gui.GuiMap": true
+    "xaero.map.gui.GuiMap": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
-    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true
   }
 }
