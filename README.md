@@ -11,6 +11,10 @@ Willkommen zum **Ullrichmon Modpaket**! Dieses Modpaket wurde für den Ullrichmo
 2. Führe die heruntergeladene Datei aus – **Modrinth installiert automatisch das gesamte Paket**.
 3. Starte das Spiel und genieße das Modpaket!
 
+## Wegpunkte und Minimap aus älterer Version übertragen
+1. Öffne den Ordner der alten Version und kopiere den Ordner **xaero**
+2. Öffne den Ordner der neuen Version und füge den Ordner **xaero** ein (Überschreiben JA)
+
 ## ⚙️ Voraussetzungen
 - **Modrinth Launcher**
 - **6 GB zugewiesener Arbeitsspeicher**
