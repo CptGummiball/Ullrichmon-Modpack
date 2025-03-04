@@ -12,12 +12,22 @@
     "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": false,
     "net.minecraft.class_443": false,
     "xaero.map.gui.GuiMap": true,
-    "io.wispforest.accessories.client.gui.AccessoriesScreen": true
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneModifierScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
     "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
-    "io.wispforest.accessories.client.gui.AccessoriesScreen": true
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneModifierScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
   }
 }
